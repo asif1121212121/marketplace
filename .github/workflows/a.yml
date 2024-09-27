@@ -10,4 +10,4 @@ jobs:
         - name: a
           run: echo checking my custom action
         - name: am putting my first docker custom action to marketplace
-          uses: asif741852014/myfirst@v1.0.13
+          uses: asif741852014/myfirst@v1.0.15
