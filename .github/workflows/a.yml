@@ -8,6 +8,6 @@ jobs:
         - name: step1
           uses: actions/checkout@v4
         - name: a
-          run: checking my custom action
+          run: echo checking my custom action
         - name: custom action
           uses: asif741852014/myfirst@v1.0.0
