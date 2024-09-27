@@ -10,4 +10,4 @@ jobs:
         - name: a
           run: echo checking my custom action
         - name: custom action
-          uses: asif741852014/myfirst@v1.0.0
+          uses: asif741852014/myfirst@v1.0.1
